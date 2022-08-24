@@ -1,0 +1,4 @@
+jupyter>=1.0.0
+matplotlib>=3.5.3
+pandas>=1.4.3
+plotly>=5.10.0
