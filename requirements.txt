@@ -1,4 +1,6 @@
+aiosqlite
 dask>=2022.10.0
+fastapi[all]
 fastparquet>=0.8.3
 jupyter>=1.0.0
 matplotlib>=3.5.3
@@ -6,3 +8,7 @@ multiprocess
 numba>=0.56.3
 pandas>=1.4.3
 plotly>=5.10.0
+PyJWT
+pytest
+requests
+sqlalchemy
