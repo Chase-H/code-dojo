@@ -2,6 +2,7 @@ aiosqlite
 dask>=2022.10.0
 fastapi[all]
 fastparquet>=0.8.3
+fire
 jupyter>=1.0.0
 matplotlib>=3.5.3
 multiprocess
@@ -12,3 +13,4 @@ PyJWT
 pytest
 requests
 sqlalchemy
+typer[all]
