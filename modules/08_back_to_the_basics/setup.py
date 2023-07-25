@@ -6,7 +6,6 @@ setup(
     description='Module to illustrate a point',
     long_description='',
     author='Chase Hudson',
-    author_email='chasehudson@squareup.com',
     packages=find_packages(),
     zip_safe=False,
     keywords='test_module',
